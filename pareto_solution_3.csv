@@ -1,0 +1,49 @@
+event_id,module_id,staff,event_type,slot,day,time
+MOD008_LEC,MOD008,Brahma O Braonain,lecture,16,Friday,09:00-11:00
+MOD012_LAB2,MOD012,Minu Senft,lab,16,Friday,09:00-11:00
+MOD013_LEC,MOD013,Laila Deniau,lecture,16,Friday,09:00-11:00
+MOD016_LAB1,MOD016,Ruh Kerekes,lab,16,Friday,09:00-11:00
+MOD010_LAB1,MOD010,Dominykas Cleary,lab,17,Friday,11:00-13:00
+MOD011_LAB2,MOD011,Sumon Kyle,lab,17,Friday,11:00-13:00
+MOD004_LAB1,MOD004,Laila Deniau,lab,18,Friday,14:00-16:00
+MOD010_LAB2,MOD010,Dominykas Cleary,lab,18,Friday,14:00-16:00
+MOD012_LEC,MOD012,Minu Senft,lecture,18,Friday,14:00-16:00
+MOD016_LEC,MOD016,Ruh Kerekes,lecture,18,Friday,14:00-16:00
+MOD004_LEC,MOD004,Laila Deniau,lecture,19,Friday,16:00-18:00
+MOD008_LAB2,MOD008,Brahma O Braonain,lab,19,Friday,16:00-18:00
+MOD014_LEC,MOD014,Sumon Kyle,lecture,19,Friday,16:00-18:00
+MOD015_LEC,MOD015,Minu Senft,lecture,19,Friday,16:00-18:00
+MOD009_LAB2,MOD009,Dominykas Cleary,lab,0,Monday,09:00-11:00
+MOD014_LAB2,MOD014,Sumon Kyle,lab,0,Monday,09:00-11:00
+MOD017_LAB1,MOD017,Ruh Kerekes,lab,0,Monday,09:00-11:00
+MOD006_LAB1,MOD006,Brahma O Braonain,lab,1,Monday,11:00-13:00
+MOD009_LAB1,MOD009,Dominykas Cleary,lab,1,Monday,11:00-13:00
+MOD005_LAB2,MOD005,Brahma O Braonain,lab,2,Monday,14:00-16:00
+MOD011_LEC,MOD011,Sumon Kyle,lecture,2,Monday,14:00-16:00
+MOD002_LAB1,MOD002,Dominykas Cleary,lab,3,Monday,16:00-18:00
+MOD011_LAB1,MOD011,Sumon Kyle,lab,3,Monday,16:00-18:00
+MOD006_LEC,MOD006,Brahma O Braonain,lecture,12,Thursday,09:00-11:00
+MOD007_LAB1,MOD007,Ruh Kerekes,lab,12,Thursday,09:00-11:00
+MOD012_LAB1,MOD012,Minu Senft,lab,12,Thursday,09:00-11:00
+MOD015_LAB2,MOD015,Minu Senft,lab,13,Thursday,11:00-13:00
+MOD008_LAB1,MOD008,Brahma O Braonain,lab,14,Thursday,14:00-16:00
+MOD009_LAB3,MOD009,Dominykas Cleary,lab,14,Thursday,14:00-16:00
+MOD015_LAB1,MOD015,Minu Senft,lab,14,Thursday,14:00-16:00
+MOD010_LEC,MOD010,Dominykas Cleary,lecture,15,Thursday,16:00-18:00
+MOD013_LAB1,MOD013,Laila Deniau,lab,15,Thursday,16:00-18:00
+MOD001_LAB1,MOD001,Zacharias Karstensen,lab,4,Tuesday,09:00-11:00
+MOD003_LAB2,MOD003,Zacharias Karstensen,lab,5,Tuesday,11:00-13:00
+MOD005_LEC,MOD005,Brahma O Braonain,lecture,5,Tuesday,11:00-13:00
+MOD003_LAB1,MOD003,Zacharias Karstensen,lab,6,Tuesday,14:00-16:00
+MOD017_LEC,MOD017,Ruh Kerekes,lecture,6,Tuesday,14:00-16:00
+MOD003_LEC,MOD003,Zacharias Karstensen,lecture,7,Tuesday,16:00-18:00
+MOD007_LEC,MOD007,Ruh Kerekes,lecture,7,Tuesday,16:00-18:00
+MOD005_LAB1,MOD005,Brahma O Braonain,lab,8,Wednesday,09:00-11:00
+MOD002_LEC,MOD002,Dominykas Cleary,lecture,9,Wednesday,11:00-13:00
+MOD006_LAB3,MOD006,Brahma O Braonain,lab,9,Wednesday,11:00-13:00
+MOD001_LAB2,MOD001,Zacharias Karstensen,lab,10,Wednesday,14:00-16:00
+MOD006_LAB2,MOD006,Brahma O Braonain,lab,10,Wednesday,14:00-16:00
+MOD009_LEC,MOD009,Dominykas Cleary,lecture,10,Wednesday,14:00-16:00
+MOD014_LAB1,MOD014,Sumon Kyle,lab,10,Wednesday,14:00-16:00
+MOD001_LEC,MOD001,Zacharias Karstensen,lecture,11,Wednesday,16:00-18:00
+MOD002_LAB2,MOD002,Dominykas Cleary,lab,11,Wednesday,16:00-18:00
